@@ -53,6 +53,13 @@
 
         </table>
 
+        <hr />
+
+        <form action="http://ocean.nationalgeographic.com/ocean/photos/ocean-jellyfish/"> 
+            <p> Want to see more pictures of jellies? </p>
+            <p><input type="submit" value="Click Here"/></p>
+
+        </form>
 </div>
 </body>
 </html>
