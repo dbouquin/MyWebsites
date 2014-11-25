@@ -15,9 +15,11 @@
 
     <hr />
     
-    <h2>Jellyfish are beautiful</h2>
+      <iframe width="560" height="315" align="right" src="//www.youtube.com/embed/gFLJSITYf-8" frameborder="0" allowfullscreen></iframe>
+      
+    <h2>Lovely Oddities</h2>
 
-    <img src="images/Most-Beautiful-Jellyfish.jpg" align="left" width="400">
+    <img src="ihttp://voices.nationalgeographic.com/files/2012/10/Gabon0383-390x590.jpg" width="400">
 
     <p>Jellyfish, also known as "jellies", are the major non-polyp form of individuals of the phylum Cnidaria.<p>
 
