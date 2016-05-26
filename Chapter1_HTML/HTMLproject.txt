@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+    <title>Jellyfish are excellent</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+</head>
+
+<body>
+<div>
+    <h1>Jellyfish: Weird and wonderful</h1>
+
+    <hr />
+    
+      <iframe width="560" height="315" align="right" src="//www.youtube.com/embed/gFLJSITYf-8" frameborder="0" allowfullscreen></iframe>
+      
+    <h2>Lovely Oddities</h2>
+
+    <img src="ihttp://voices.nationalgeographic.com/files/2012/10/Gabon0383-390x590.jpg" width="400">
+
+    <p>Jellyfish, also known as "jellies", are the major non-polyp form of individuals of the phylum Cnidaria.<p>
+
+    <hr />
+
+        <h3>A few jelly facts</h3>
+        <ul>
+            <li>Most jellyfish do not have specialized digestive, osmoregulatory, central nervous, respiratory, or circulatory systems.</li>
+            <li>Some jellyfish have ocelli: light-sensitive organs that do not form images but which can detect light and are used to determine up from down, responding to sunlight shining on the water's surface.</li>
+            <li> Jellyfish range from about one millimeter in bell height and diameter to nearly two meters in bell height and diameter; the tentacles and mouth parts usually extend beyond this bell dimension. </li>
+        </ul>
+
+        <hr />
+
+        <h3>My top three favorite jellies</h3>
+
+        <ol>
+            <li>Moon Jelly</li>
+            <li>White Spotted Jelly</li>
+            <li>Flower Hat Jelly</li>    
+        </ol>    
+
+        <hr />
+
+        <h3>Where you can find my favorite Jellies</h3>
+
+        <table>
+
+            <tr><th>Jelly</th><th>Environment</th></tr>
+            <tr><td>Moon</td><td>Atlantic Coast</td></tr>
+            <tr><td>White Spotted</td><td>West Pacific</td></tr>
+            <tr><td>Flower Hat</td><td>South Japan</td></tr>
+
+        </table>
+
+        <hr />
+
+        <form action="http://ocean.nationalgeographic.com/ocean/photos/ocean-jellyfish/"> 
+            <p> Want to see more pictures of jellies? </p>
+            <p><input type="submit" value="Click Here"/></p>
+
+        </form>
+</div>
+</body>
+</html>
